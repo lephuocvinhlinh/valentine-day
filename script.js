@@ -1,5 +1,11 @@
 const gifStages = [
-    "image/z7530991764114_af5a627222491fc145de36f611828c1d.jpg",    // 0 normal
+    "image/z7530991764114_af5a627222491fc145de36f611828c1d.jpg",
+    "image/z7531087585013_8606cc3d6db3134787aa1f8fe24da508.jpg",
+    "image/z7530991765588_78794b1edcadd114af1f2dce1445762e.jpg",
+    "image/z7530991760339_f80bcd39138e00e2e342b5abdd0bde3e.jpg",
+    "image/z7530991752871_69f0ba04427b53b912fd1700f7c762e4.jpg",
+    "image/z7531087568718_1f31798878c54368b106004f1c9332e5.jpg",
+    "image/z7531087582468_28708045b1be69fc04a7186454c795bc.jpg",
     // "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     // "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
     // "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
